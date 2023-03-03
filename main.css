@@ -5,8 +5,11 @@
 }
 
 body {
+    background-image: url(./calculator.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     min-height: 100vh;
-    background: #fff;
+    /* background: #442c2c; */
     display: flex;
     justify-content: center;
     align-items: center;
